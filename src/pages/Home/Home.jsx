@@ -25,7 +25,7 @@ function Home() {
         </div>
       </main>
 
-      <Countdown eventStart="May 20, 2024 18:30:00" eventEnd="May 24, 2024 11:30:00"/>
+      <Countdown eventStart="May 20, 2025 18:30:00" eventEnd="May 24, 2025 11:30:00"/>
 
       <Organization title={"ORGANIZAÇÃO DO VI SERCOMP"}  members={orgMembersData}/>
     </>
